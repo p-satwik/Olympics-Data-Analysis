@@ -13,6 +13,10 @@ An interactive web application that provides various insights and analysis of hi
 
 Check out the live application here: [Olympics Data Analysis on Heroku](https://oda-satwik-2963eb7786ee.herokuapp.com/)
 
+## 📁 Dataset
+
+- **[120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)**: A comprehensive dataset from Kaggle that contains information on athletes and results from Olympic Games between 1896 and 2016.
+
 ## ⚙️ Technologies Used
 
 - **Python**: Core programming language.
@@ -24,13 +28,7 @@ Check out the live application here: [Olympics Data Analysis on Heroku](https://
 
 ## 📊 Visualizations Available
 
-- **Medal Tally**: Track medal counts by country and year.
-- **Performance by Athlete**: View individual athlete performances.
-- **Country-Wise Analysis**: Compare Olympic dominance across nations.
-- **Historical Data Trends**: Visualize performance trends over time.
-
-## 🛠️ How to Use Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/olympics-data-analysis.git
+- **Olympics in Numbers**: Provides a quantitative overview of the Olympics.
+- **Medals Wise Analysis**: Medal counts and distribution across countries, years, and athletes.
+- **Country Wise Analysis**: Compare Olympic performance and dominance across different nations.
+- **Athletes Wise Analysis**: Explore data related to individual athlete performances and records.
